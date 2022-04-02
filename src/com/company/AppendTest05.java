@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Append {
+public class AppendTest05 {
     static Scanner scanner;
     static String first;
     static String second;

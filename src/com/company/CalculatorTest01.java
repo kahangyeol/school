@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Calculator {
+public class CalculatorTest01 {
     static Scanner scanner;
     static int num1;
     static int num2;
