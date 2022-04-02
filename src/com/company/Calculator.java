@@ -24,6 +24,7 @@ public class Calculator {
                 div(num1,num2);
                 break;
         }
+        scanner.close();
     }
 
     public static void init(){
