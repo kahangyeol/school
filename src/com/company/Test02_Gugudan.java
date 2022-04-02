@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class GugudanTest02 {
+public class Test02_Gugudan {
     static int gugudan;
     static int gugudanCount;
     static Scanner scanner;
