@@ -23,10 +23,9 @@ public class NumberObjects {
     }
 
     private void printOtherBase(long value) {
-        System.out.println("Original"+value);
-        System.out.println("Binary"+Long.toBinaryString(value));
-        System.out.println("Hex"+Long.toHexString(value));
-        System.out.println("Octal"+Long.toOctalString(value));
-
+        System.out.println("Original: "+value);
+        System.out.println("Binary  : "+Long.toBinaryString(value));
+        System.out.println("HexL    : "+Long.toHexString(value));
+        System.out.println("Octal   : "+Long.toOctalString(value));
     }
 }
